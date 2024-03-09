@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "W9HF/7Xeb4S5mfeXhguuWUyH543kjYvd2Zw/CcN0qVeJZ6ocLZpiENEXVsuw0PgnHUvKGTSIsVCqsKKVhTEJ9A==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\sauce\\source\\repos\\ShitOS\\ShitOS\\SharpK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sauce\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20221121055958\\cosmos.build.0.1.0-localbuild20221121055958.nupkg.sha512",
+    "C:\\Users\\sauce\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20221121060004\\cosmos.common.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\sauce\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20221121060004\\cosmos.core.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\sauce\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20221121060004\\cosmos.debug.kernel.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\sauce\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20221121060004\\cosmos.hal2.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\sauce\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20221121060004\\cosmos.system2.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\sauce\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20221121060004\\il2cpu.api.0.1.0-localbuild20221121060004.nupkg.sha512"
+  ],
+  "logs": []
+}

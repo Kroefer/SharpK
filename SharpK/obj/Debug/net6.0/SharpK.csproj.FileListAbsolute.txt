@@ -1,0 +1,12 @@
+D:\Users\sauce\source\repos\ShitOS\ShitOS\bin\Debug\net6.0\SharpK.deps.json
+D:\Users\sauce\source\repos\ShitOS\ShitOS\bin\Debug\net6.0\SharpK.dll
+D:\Users\sauce\source\repos\ShitOS\ShitOS\bin\Debug\net6.0\SharpK.pdb
+D:\Users\sauce\source\repos\ShitOS\ShitOS\obj\Debug\net6.0\SharpK.csproj.AssemblyReference.cache
+D:\Users\sauce\source\repos\ShitOS\ShitOS\obj\Debug\net6.0\SharpK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sauce\source\repos\ShitOS\ShitOS\obj\Debug\net6.0\SharpK.AssemblyInfoInputs.cache
+D:\Users\sauce\source\repos\ShitOS\ShitOS\obj\Debug\net6.0\SharpK.AssemblyInfo.cs
+D:\Users\sauce\source\repos\ShitOS\ShitOS\obj\Debug\net6.0\SharpK.csproj.CoreCompileInputs.cache
+D:\Users\sauce\source\repos\ShitOS\ShitOS\obj\Debug\net6.0\SharpK.dll
+D:\Users\sauce\source\repos\ShitOS\ShitOS\obj\Debug\net6.0\refint\SharpK.dll
+D:\Users\sauce\source\repos\ShitOS\ShitOS\obj\Debug\net6.0\SharpK.pdb
+D:\Users\sauce\source\repos\ShitOS\ShitOS\obj\Debug\net6.0\ref\SharpK.dll
