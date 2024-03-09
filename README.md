@@ -3,7 +3,7 @@ a simple "operating system" made using C# and CosmosOS
 
 # Downloads
 > ⚠️ WARNING ⚠️ SharpK does not work with usb keyboards. Please use a PS/2 Keyboard or enable PS/2 Emulation in your motherboard bios.
-- Releases Page
+- [Releases Page](https://github.com/Kroefer/SharpK/releases/tag/v0.1-alpha)
 
 # Wiki
 - view the wiki for help with commands, building the code, and errors.
